@@ -144,6 +144,6 @@ Our Lab Instructor: Engr. Irfanullah, for their valuable guidance throughout the
 
 [1]	Arduino Official Website. [https://www.arduino.cc]
 
-[2]	MIT App Inventor. [ai2.appinventor.mit.edu]
+[2]	MIT App Inventor. [https://ai2.appinventor.mit.edu]
  
 
