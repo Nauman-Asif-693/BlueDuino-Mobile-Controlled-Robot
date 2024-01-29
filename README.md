@@ -5,6 +5,8 @@ The hardware integration involved assembling the Arduino Uno, L298N motor driver
 
 Keywords— Arduino Uno, L298N, HC-05, MIT App Inventor, Bluetooth, 2WD Chassis Car.
 
+<img src = "Car.jpg">
+
 ## I.	INTRODUCTION 
 
 The landscape of robotics and automation has witnessed an upsurge in the utilization of remote-controlled mechanisms, advancing the world of convenience, efficiency, and innovation. Within this context, this project delves into the development and implementation of a Bluetooth-controlled 2WD chassis car, leveraging modern technologies such as the Arduino Uno microcontroller, L298N motor driver, HC-05 Bluetooth module, and MIT App Inventor.
