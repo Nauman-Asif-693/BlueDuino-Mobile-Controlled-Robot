@@ -70,13 +70,19 @@ The adoption of Arduino Uno, a widely accessible and versatile microcontroller, 
 
 - HC-05 Bluetooth module: The module was connected to the Arduino Uno via serial communication pins (TX, RX) and power connections (VCC, GND).
 
+<img src = "Circuit.jpg">
+
 ### B.	Mobile App Creation using MIT App Inventor
 
 - User Interface Design: Using MIT App Inventor's visual interface, the mobile application was designed to provide an intuitive user interface. Graphical elements like buttons were incorporated to represent directional controls (forward, backward, left, right, stop) for the car's movement. User feedback elements such as labels or messages were included to display connection status.
 
+<img src = "MIT Apps.jpg">
+
 - Bluetooth Communication Setup: MIT App Inventor offers Bluetooth connectivity components that were utilized to establish a connection between the mobile device and the HC-05 module. Pairing and connection processes were programmed within the app, allowing users to search for and connect to the Bluetooth module on the Arduino-based car.
 
 - Command Transmission: Upon successful Bluetooth connection, the app was programmed to send specific commands corresponding to user inputs (button presses or slider adjustments). These commands were transmitted as serial data packets containing instructions for the desired movements (forward, backward, left, right) of the car. 
+
+<img src = "MIT Blocks.jpg">
 
 ### C.	Source Code
 
